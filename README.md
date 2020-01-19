@@ -71,5 +71,18 @@ If the entry doesn’t exist, create a new user variable named Path with the ful
 
 ## Below is the screenshot of Flutter First App demo deployment.
 <center><img src="https://github.com/SagarPatel98/Flutter/blob/master/Screenshot_20200119-183905.jpg" height="400" width="280"></center>
+
+In the project directory go to the **lib folder** which has the **main.dart**  file inside it.
+In the **main.dart** file we write the main code for our app.
+To change the color of heder and Float button go to **main.dart**  file and search for **primarySwatch**.
+By default **primarySwatch** will be set to Color.blue **change it to** **primarySwatch: Color.lightgreen**.
+Go to terminal and press the **r** key without quitting the runing app.
+**r** key enable the live reloading without running the whole app again and again.
+When you first deploy the app the **Debug** mark will be display in your scrren.
+To remove the **Debug Mark** go to **main.dart** file and inside the **return     return MaterialApp()**
+Write the **debugShowCheckedModeBanner: false,** and run again by pressing the **r** keyword.
+After doing the above following changses the app will be look like below screenshot.
+
+
 <center><img src="https://github.com/SagarPatel98/Flutter/blob/master/Screenshot_20200119-184006.jpg" height="400" width="280"></center>
 
