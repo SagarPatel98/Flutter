@@ -70,5 +70,6 @@ If the entry doesn’t exist, create a new user variable named Path with the ful
 
 
 ## Below is the screenshot of Flutter First App demo deployment.
-<center><img src="https://github.com/SagarPatel98/Flutter-Demo-App/blob/master/Screenshot_20200119-183905.jpg" height="400" width="280"></center>
+<center><img src="https://github.com/SagarPatel98/Flutter/blob/master/Screenshot_20200119-183905.jpg" height="400" width="280"></center>
+<center><img src="https://github.com/SagarPatel98/Flutter/blob/master/Screenshot_20200119-184006.jpg" height="400" width="280"></center>
 
